@@ -17,4 +17,4 @@ help:
 	@echo "clean     - delete all artifacts"
 
 clean:
-	-rm -r project-files .Xil tempScript.tcl
+	-rm -r project-files .Xil build tempScript.tcl

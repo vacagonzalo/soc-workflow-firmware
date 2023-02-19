@@ -1,4 +1,5 @@
 .Xil/
+build/
 project-files/
 
 # Prerequisites
