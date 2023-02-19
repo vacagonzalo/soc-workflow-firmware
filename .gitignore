@@ -1,3 +1,6 @@
+.Xil/
+project-files/
+
 # Prerequisites
 *.d
 
